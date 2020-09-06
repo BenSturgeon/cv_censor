@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cvparser/pdf-redactor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/original_pyre/pyresparser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyresparser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slate" vcs="Git" />
+  </component>
+</project>
