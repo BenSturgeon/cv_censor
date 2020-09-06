@@ -1,28 +1,27 @@
 A project that pulls on a few different NER tools in order to parse sensitive client information and remove it from a resume or CV document.
 
-A few steps are required for installation:
-It is assumed that the latest version of python is installed on the system.
+# Installation
 
-1. Installation of python packages. 
+1. Install the latest version of python
+
+2. Installation of python packages. 
 
 I recommend doing this through: 
 
 $pip install -r requirements.txt
 
-2.
-
-This should provide all the necessary libraries. There are a number of dependencies built into the directory. 
+## Execution
 
 The system can be run by passing a pdf file as an argument to hide.py.
 
 An example: 
 
-python3 hide.py OmkarResume.pdf
+python3 hide.py Benjamin_Sturgeon_Resume.pdf
 
 Two further arguments can be passed, depth of name search and a custom output name. 
 In the default case it would be best if the file being converted is in the current directory. 
 
-Expected input:
+###### Expected input:
 
 Installing facilities to convert docx and doc to pdf.
 
