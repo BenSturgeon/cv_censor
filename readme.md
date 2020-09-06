@@ -16,7 +16,7 @@ The system can be run by passing a pdf file as an argument to hide.py.
 
 An example: 
 
-python3 hide.py Benjamin_Sturgeon_Resume.pdf
+$ python3 hide.py Benjamin_Sturgeon_Resume.pdf
 
 Two further arguments can be passed, depth of name search and a custom output name. 
 In the default case it would be best if the file being converted is in the current directory. 
